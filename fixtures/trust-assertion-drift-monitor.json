@@ -1,0 +1,272 @@
+[
+  {
+    "id": "ai-governance-trust-assertion",
+    "lane": "AI governance trust assertion",
+    "track": "AI_GOVERNANCE",
+    "action": "REFRESH",
+    "assertionFamily": "AI governance readiness claim",
+    "boardQuestion": "Which AI governance claims would fail a buyer or investor trust review first?",
+    "owner": "Chief AI Officer",
+    "audience": "Board risk committee",
+    "currentPosture": "Governance language is coherent, but the live proof set is older than the confidence of the public statement.",
+    "publicAssertion": "Agent governance, rollout, and exception control evidence is review-ready.",
+    "evidenceReality": "Rollback, exception-routing, and evaluation review proof still needs a freshness refresh.",
+    "driftHeadline": "AI governance reads stronger in public than it does in the live proof room.",
+    "driftSignal": "Exception-routing and rollback evidence is older than the trust language implies.",
+    "missingProof": "Fresh operating exports for exception handling, evaluation review, and rollback outcomes",
+    "evidenceArtifacts": [
+      "exception-routing export",
+      "evaluation review packet",
+      "rollback control log"
+    ],
+    "remediationMoves": [
+      "refresh control exports",
+      "attach evaluation packet",
+      "tighten public trust wording"
+    ],
+    "relatedSurfaces": [
+      "scorecard.kineticgain.com",
+      "memo.kineticgain.com",
+      "agents.kineticgain.com"
+    ],
+    "companyTags": [
+      "OpenAI",
+      "Anthropic",
+      "Microsoft"
+    ],
+    "assertionConfidenceScore": 71,
+    "evidenceFreshnessDays": 26,
+    "ownerContinuityScore": 72,
+    "contradictionCount": 1,
+    "publicExposureScore": 83,
+    "driftExposureMillions": 32,
+    "headline": "AI governance needs fresher proof before it should anchor trust review.",
+    "narrative": "This is an evidence freshness problem more than a positioning problem.",
+    "nextMove": "Refresh the operating evidence and narrow the highest-confidence AI claim until the proof room catches up."
+  },
+  {
+    "id": "identity-assurance-assertion",
+    "lane": "Identity assurance assertion",
+    "track": "IDENTITY",
+    "action": "CLOSE",
+    "assertionFamily": "Identity assurance claim",
+    "boardQuestion": "Which identity trust claims are closest to clean closure?",
+    "owner": "Chief Information Security Officer",
+    "audience": "Audit committee",
+    "currentPosture": "Identity evidence is strong and mostly current.",
+    "publicAssertion": "Identity reviews, guest access, and mobile protection controls are audit-ready.",
+    "evidenceReality": "One guest-access proof export is aging, but the assertion is otherwise aligned to live evidence.",
+    "driftHeadline": "Identity is the healthiest assertion family, with only minor freshness cleanup left.",
+    "driftSignal": "Guest-review evidence is slightly older than ideal, but ownership is clear.",
+    "missingProof": "One refreshed guest-access evidence export",
+    "evidenceArtifacts": [
+      "guest access export",
+      "mobile posture packet",
+      "access-review trail"
+    ],
+    "remediationMoves": [
+      "refresh guest export",
+      "attach mobile posture packet"
+    ],
+    "relatedSurfaces": [
+      "guest.kineticgain.com",
+      "protect.kineticgain.com",
+      "certs.kineticgain.com"
+    ],
+    "companyTags": [
+      "Microsoft",
+      "Entra",
+      "Okta"
+    ],
+    "assertionConfidenceScore": 86,
+    "evidenceFreshnessDays": 17,
+    "ownerContinuityScore": 87,
+    "contradictionCount": 0,
+    "publicExposureScore": 68,
+    "driftExposureMillions": 16,
+    "headline": "Identity can close quickly with a small evidence refresh.",
+    "narrative": "This is the benchmark lane for a disciplined trust assertion surface.",
+    "nextMove": "Refresh the guest-access export and mark this assertion family ready for external reuse."
+  },
+  {
+    "id": "platform-reliability-assertion",
+    "lane": "Platform reliability assertion",
+    "track": "PLATFORM_OPERATIONS",
+    "action": "ESCALATE",
+    "assertionFamily": "Platform resilience claim",
+    "boardQuestion": "Where will platform and recovery trust review ask for harder evidence?",
+    "owner": "VP Platform Engineering",
+    "audience": "Board technology committee",
+    "currentPosture": "Narrative strength is ahead of proof depth.",
+    "publicAssertion": "Hosting, release safety, backup, and runtime hardening are connected enough for diligence.",
+    "evidenceReality": "Backup readiness, release rollback, and runtime-hardening proof are still fragmented.",
+    "driftHeadline": "Platform trust needs escalation because the evidence chain is still fragmented.",
+    "driftSignal": "Backup readiness, release rollback, and hosted-validator evidence are still loosely linked.",
+    "missingProof": "One end-to-end packet linking hosting controls to release and recovery proof",
+    "evidenceArtifacts": [
+      "backup drill report",
+      "release rollback example",
+      "hosted validator control export"
+    ],
+    "remediationMoves": [
+      "attach backup packet",
+      "publish rollback example",
+      "show hosted-control lineage"
+    ],
+    "relatedSurfaces": [
+      "backup.kineticgain.com",
+      "validator.kineticgain.com",
+      "docs.kineticgain.com"
+    ],
+    "companyTags": [
+      "Cloudflare",
+      "GitHub",
+      "Hostinger"
+    ],
+    "assertionConfidenceScore": 64,
+    "evidenceFreshnessDays": 22,
+    "ownerContinuityScore": 61,
+    "contradictionCount": 2,
+    "publicExposureScore": 79,
+    "driftExposureMillions": 30,
+    "headline": "Platform trust needs escalation because the evidence chain is still fragmented.",
+    "narrative": "The issue is connective proof, not lack of platform surface area.",
+    "nextMove": "Escalate one owner to assemble the hosting-to-recovery proof chain."
+  },
+  {
+    "id": "procurement-trust-assertion",
+    "lane": "Procurement trust assertion",
+    "track": "PROCUREMENT_TRUST",
+    "action": "CLOSE",
+    "assertionFamily": "Procurement trust claim",
+    "boardQuestion": "Which trust assertion should anchor the rest of the external proof layer?",
+    "owner": "Chief Commercial Officer",
+    "audience": "Board growth committee",
+    "currentPosture": "Procurement is the strongest lane and can serve as the reference trust claim.",
+    "publicAssertion": "Security questionnaire, trust-center, and proof reuse are buyer-ready.",
+    "evidenceReality": "Questionnaire reuse is strong, but still benefits from a clearer proof index.",
+    "driftHeadline": "This trust assertion is structurally strong and mainly needs ongoing hygiene.",
+    "driftSignal": "Questionnaire reuse still benefits from a more explicit proof index.",
+    "missingProof": "Published proof-coverage index across the trust layer",
+    "evidenceArtifacts": [
+      "questionnaire answer pack",
+      "trust-center packet",
+      "proof coverage index"
+    ],
+    "remediationMoves": [
+      "publish coverage index",
+      "cross-link trust assets",
+      "standardize answer-pack attachments"
+    ],
+    "relatedSurfaces": [
+      "procurement.kineticgain.com",
+      "questionnaire.kineticgain.com",
+      "trust.kineticgain.com"
+    ],
+    "companyTags": [
+      "Vanta",
+      "Drata",
+      "Google"
+    ],
+    "assertionConfidenceScore": 89,
+    "evidenceFreshnessDays": 10,
+    "ownerContinuityScore": 85,
+    "contradictionCount": 0,
+    "publicExposureScore": 61,
+    "driftExposureMillions": 14,
+    "headline": "Procurement should anchor the trust-evidence stack.",
+    "narrative": "Use this lane as the operating standard for proof reuse and evidence clarity.",
+    "nextMove": "Publish the proof-coverage index and lock this assertion as the reference lane."
+  },
+  {
+    "id": "revenue-systems-assertion",
+    "lane": "Revenue systems assertion",
+    "track": "REVENUE_SYSTEMS",
+    "action": "RESTATE",
+    "assertionFamily": "Revenue infrastructure claim",
+    "boardQuestion": "Which revenue-system claims are still too early for external trust language?",
+    "owner": "Chief Revenue Officer",
+    "audience": "Board finance committee",
+    "currentPosture": "The revenue-control story is promising but still early as a unified external assertion.",
+    "publicAssertion": "Reporting, attribution, and release controls already form one diligence-grade revenue control plane.",
+    "evidenceReality": "Cross-surface evidence is thinner than the strength of the integrated-control narrative.",
+    "driftHeadline": "Revenue should be framed as an emerging capability, not a closed trust assertion.",
+    "driftSignal": "Cross-surface evidence is thinner than the strength of the integrated-control narrative.",
+    "missingProof": "One end-to-end evidence packet connecting reporting, attribution, and release controls",
+    "evidenceArtifacts": [
+      "reporting control matrix",
+      "release-control packet",
+      "attribution rollback example"
+    ],
+    "remediationMoves": [
+      "restate integrated language",
+      "publish one linked packet",
+      "frame as emerging control layer"
+    ],
+    "relatedSurfaces": [
+      "powerbi.kineticgain.com",
+      "yield.kineticgain.com",
+      "martech.kineticgain.com"
+    ],
+    "companyTags": [
+      "Power BI",
+      "Tableau",
+      "VWO"
+    ],
+    "assertionConfidenceScore": 59,
+    "evidenceFreshnessDays": 21,
+    "ownerContinuityScore": 60,
+    "contradictionCount": 2,
+    "publicExposureScore": 77,
+    "driftExposureMillions": 26,
+    "headline": "Revenue controls need a stronger proof chain before external trust reuse.",
+    "narrative": "The surface is valuable, but the integrated control-plane claim should wait.",
+    "nextMove": "Restate the integrated assertion until one linked revenue-control packet exists."
+  },
+  {
+    "id": "regulated-infrastructure-assertion",
+    "lane": "Regulated infrastructure assertion",
+    "track": "REGULATED_INFRASTRUCTURE",
+    "action": "REFRESH",
+    "assertionFamily": "Regulated infrastructure claim",
+    "boardQuestion": "Which regulated assertions need provenance reinforcement before reuse?",
+    "owner": "Quality systems lead",
+    "audience": "Board compliance committee",
+    "currentPosture": "The control stack is compelling, but the proof packet needs stronger provenance and fresher timestamps.",
+    "publicAssertion": "GxP, specimen, CAPA, safety, and narrative review already form a reusable regulated trust packet.",
+    "evidenceReality": "Evidence dates and repeatability notes are weaker than the confidence of the regulated trust narrative.",
+    "driftHeadline": "The regulated trust packet is real, but still needs clearer provenance to feel durable.",
+    "driftSignal": "Evidence dates and repeatability notes are weaker than the current trust narrative.",
+    "missingProof": "Fresh provenance notes and one repeatable regulated packet",
+    "evidenceArtifacts": [
+      "GxP change packet",
+      "specimen custody proof",
+      "CAPA closure ledger"
+    ],
+    "remediationMoves": [
+      "refresh dates",
+      "tighten provenance notes",
+      "publish one repeatable packet"
+    ],
+    "relatedSurfaces": [
+      "gxp.kineticgain.com",
+      "specimen.kineticgain.com",
+      "capa.kineticgain.com",
+      "safety.kineticgain.com"
+    ],
+    "companyTags": [
+      "Veeva",
+      "LabVantage",
+      "Thermo Fisher"
+    ],
+    "assertionConfidenceScore": 68,
+    "evidenceFreshnessDays": 33,
+    "ownerContinuityScore": 65,
+    "contradictionCount": 1,
+    "publicExposureScore": 76,
+    "driftExposureMillions": 29,
+    "headline": "Regulated controls need a provenance refresh before they read like a durable trust packet.",
+    "narrative": "The surface is there; the external packet needs to look more repeatable and less recent.",
+    "nextMove": "Refresh provenance notes and publish one repeatable regulated packet."
+  }
+]

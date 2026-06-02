@@ -1,0 +1,50 @@
+[
+  {
+    "lane": "AI governance trust assertion",
+    "action": "REFRESH",
+    "contradictionCount": 1,
+    "compositeTrustRiskScore": 37.2,
+    "owner": "Chief AI Officer",
+    "nextMove": "Refresh the operating evidence and narrow the highest-confidence AI claim until the proof room catches up."
+  },
+  {
+    "lane": "Identity assurance assertion",
+    "action": "CLOSE",
+    "contradictionCount": 0,
+    "compositeTrustRiskScore": 22.4,
+    "owner": "Chief Information Security Officer",
+    "nextMove": "Refresh the guest-access export and mark this assertion family ready for external reuse."
+  },
+  {
+    "lane": "Platform reliability assertion",
+    "action": "ESCALATE",
+    "contradictionCount": 2,
+    "compositeTrustRiskScore": 43.2,
+    "owner": "VP Platform Engineering",
+    "nextMove": "Escalate one owner to assemble the hosting-to-recovery proof chain."
+  },
+  {
+    "lane": "Procurement trust assertion",
+    "action": "CLOSE",
+    "contradictionCount": 0,
+    "compositeTrustRiskScore": 19.4,
+    "owner": "Chief Commercial Officer",
+    "nextMove": "Publish the proof-coverage index and lock this assertion as the reference lane."
+  },
+  {
+    "lane": "Revenue systems assertion",
+    "action": "RESTATE",
+    "contradictionCount": 2,
+    "compositeTrustRiskScore": 43.8,
+    "owner": "Chief Revenue Officer",
+    "nextMove": "Restate the integrated assertion until one linked revenue-control packet exists."
+  },
+  {
+    "lane": "Regulated infrastructure assertion",
+    "action": "REFRESH",
+    "contradictionCount": 1,
+    "compositeTrustRiskScore": 39.2,
+    "owner": "Quality systems lead",
+    "nextMove": "Refresh provenance notes and publish one repeatable regulated packet."
+  }
+]

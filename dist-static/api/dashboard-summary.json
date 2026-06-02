@@ -1,0 +1,11 @@
+{
+  "assertionsTracked": 6,
+  "highDriftAssertions": 3,
+  "staleAssertions": 5,
+  "contradictionHotspots": 4,
+  "averageAssertionConfidence": 72.8,
+  "driftExposureMillions": 147,
+  "leadingMessage": "Trust drift is now cross-functional and should be closed as one board-visible remediation workstream.",
+  "generatedAt": "2026-06-02T00:00:00Z",
+  "boardMessage": "Use procurement and identity as the reference assertions, escalate platform trust first, restate revenue language second, and refresh AI plus regulated proof before the next external review."
+}

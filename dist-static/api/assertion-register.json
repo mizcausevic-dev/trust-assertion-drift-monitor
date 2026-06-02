@@ -1,0 +1,62 @@
+[
+  {
+    "lane": "AI governance trust assertion",
+    "assertionFamily": "AI governance readiness claim",
+    "action": "REFRESH",
+    "owner": "Chief AI Officer",
+    "audience": "Board risk committee",
+    "publicAssertion": "Agent governance, rollout, and exception control evidence is review-ready.",
+    "assertionConfidenceScore": 71,
+    "nextMove": "Refresh the operating evidence and narrow the highest-confidence AI claim until the proof room catches up."
+  },
+  {
+    "lane": "Identity assurance assertion",
+    "assertionFamily": "Identity assurance claim",
+    "action": "CLOSE",
+    "owner": "Chief Information Security Officer",
+    "audience": "Audit committee",
+    "publicAssertion": "Identity reviews, guest access, and mobile protection controls are audit-ready.",
+    "assertionConfidenceScore": 86,
+    "nextMove": "Refresh the guest-access export and mark this assertion family ready for external reuse."
+  },
+  {
+    "lane": "Platform reliability assertion",
+    "assertionFamily": "Platform resilience claim",
+    "action": "ESCALATE",
+    "owner": "VP Platform Engineering",
+    "audience": "Board technology committee",
+    "publicAssertion": "Hosting, release safety, backup, and runtime hardening are connected enough for diligence.",
+    "assertionConfidenceScore": 64,
+    "nextMove": "Escalate one owner to assemble the hosting-to-recovery proof chain."
+  },
+  {
+    "lane": "Procurement trust assertion",
+    "assertionFamily": "Procurement trust claim",
+    "action": "CLOSE",
+    "owner": "Chief Commercial Officer",
+    "audience": "Board growth committee",
+    "publicAssertion": "Security questionnaire, trust-center, and proof reuse are buyer-ready.",
+    "assertionConfidenceScore": 89,
+    "nextMove": "Publish the proof-coverage index and lock this assertion as the reference lane."
+  },
+  {
+    "lane": "Revenue systems assertion",
+    "assertionFamily": "Revenue infrastructure claim",
+    "action": "RESTATE",
+    "owner": "Chief Revenue Officer",
+    "audience": "Board finance committee",
+    "publicAssertion": "Reporting, attribution, and release controls already form one diligence-grade revenue control plane.",
+    "assertionConfidenceScore": 59,
+    "nextMove": "Restate the integrated assertion until one linked revenue-control packet exists."
+  },
+  {
+    "lane": "Regulated infrastructure assertion",
+    "assertionFamily": "Regulated infrastructure claim",
+    "action": "REFRESH",
+    "owner": "Quality systems lead",
+    "audience": "Board compliance committee",
+    "publicAssertion": "GxP, specimen, CAPA, safety, and narrative review already form a reusable regulated trust packet.",
+    "assertionConfidenceScore": 68,
+    "nextMove": "Refresh provenance notes and publish one repeatable regulated packet."
+  }
+]

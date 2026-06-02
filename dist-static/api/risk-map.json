@@ -1,0 +1,74 @@
+[
+  {
+    "lane": "AI governance trust assertion",
+    "track": "AI_GOVERNANCE",
+    "compositeTrustRiskScore": 37.2,
+    "driftExposureMillions": 32,
+    "publicExposureScore": 83,
+    "companyTags": [
+      "OpenAI",
+      "Anthropic",
+      "Microsoft"
+    ]
+  },
+  {
+    "lane": "Identity assurance assertion",
+    "track": "IDENTITY",
+    "compositeTrustRiskScore": 22.4,
+    "driftExposureMillions": 16,
+    "publicExposureScore": 68,
+    "companyTags": [
+      "Microsoft",
+      "Entra",
+      "Okta"
+    ]
+  },
+  {
+    "lane": "Platform reliability assertion",
+    "track": "PLATFORM_OPERATIONS",
+    "compositeTrustRiskScore": 43.2,
+    "driftExposureMillions": 30,
+    "publicExposureScore": 79,
+    "companyTags": [
+      "Cloudflare",
+      "GitHub",
+      "Hostinger"
+    ]
+  },
+  {
+    "lane": "Procurement trust assertion",
+    "track": "PROCUREMENT_TRUST",
+    "compositeTrustRiskScore": 19.4,
+    "driftExposureMillions": 14,
+    "publicExposureScore": 61,
+    "companyTags": [
+      "Vanta",
+      "Drata",
+      "Google"
+    ]
+  },
+  {
+    "lane": "Revenue systems assertion",
+    "track": "REVENUE_SYSTEMS",
+    "compositeTrustRiskScore": 43.8,
+    "driftExposureMillions": 26,
+    "publicExposureScore": 77,
+    "companyTags": [
+      "Power BI",
+      "Tableau",
+      "VWO"
+    ]
+  },
+  {
+    "lane": "Regulated infrastructure assertion",
+    "track": "REGULATED_INFRASTRUCTURE",
+    "compositeTrustRiskScore": 39.2,
+    "driftExposureMillions": 29,
+    "publicExposureScore": 76,
+    "companyTags": [
+      "Veeva",
+      "LabVantage",
+      "Thermo Fisher"
+    ]
+  }
+]
