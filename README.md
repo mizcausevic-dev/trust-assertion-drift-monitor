@@ -2,7 +2,7 @@
 
 Board-ready trust intelligence surface for tracking where published assertions drift away from live evidence, ownership freshness, and buyer-safe proof posture.
 
-- Live: `http://drift.kineticgain.com/`
+- Live: `https://drift.kineticgain.com/`
 - Repo: `mizcausevic-dev/trust-assertion-drift-monitor`
 
 ## Why this matters
